@@ -8,6 +8,7 @@ Amor Stories is a mobile application developed using Flutter. This app allows us
 - [Installation](#installation)
 - [Folder Structure](#folder-structure)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -70,6 +71,13 @@ Upcoming (TODO)
 - Push notifications for new stories: Notify users when new stories are added by people they follow.
 - Reactions and comments on stories: Allow users to interact with stories by leaving reactions and comments.
 - Profile customization: Provide users the ability to personalize their profiles with avatars, bios, and story highlights.
+
+## Screenshots
+
+![Screenshot 1](https://i.ibb.co/bFnBDML/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-24.png)
+![Screenshot 2](https://i.ibb.co/5Frgr24/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-43.png)
+![Screenshot 3](https://i.ibb.co/wdXd9zZ/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-49.png)
+![Screenshot 4](https://i.ibb.co/qdxvV3j/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-53.png)
 
 ## Contributing
 
