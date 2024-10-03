@@ -74,10 +74,19 @@ Upcoming (TODO)
 
 ## Screenshots
 
-![Screenshot 1](https://i.ibb.co/bFnBDML/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-24.png)
-![Screenshot 2](https://i.ibb.co/5Frgr24/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-43.png)
-![Screenshot 3](https://i.ibb.co/wdXd9zZ/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-49.png)
-![Screenshot 4](https://i.ibb.co/qdxvV3j/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-53.png)
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 0 0 48%; text-align: center;">
+    <img src="https://i.ibb.co/bFnBDML/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-24.png" alt="Screenshot 1" style="width: 100%;"/>
+    <img src="https://i.ibb.co/5Frgr24/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-43.png" alt="Screenshot 2" style="width: 100%;"/>
+  </div>
+
+  <div style="flex: 0 0 48%; text-align: center;">
+    <img src="https://i.ibb.co/wdXd9zZ/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-49.png" alt="Screenshot 3" style="width: 100%;"/>
+    <img src="https://i.ibb.co/qdxvV3j/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-12-19-53.png" alt="Screenshot 4" style="width: 100%;"/>
+  </div>
+
+</div>
 
 ## Contributing
 
